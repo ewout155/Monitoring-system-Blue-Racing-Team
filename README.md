@@ -9,7 +9,9 @@ Dependencies:
 
 •	Pynmea: https://github.com/Knio/pynmea2
 
-•	CAN-bus: https://www.hackster.io/youness/how-to-connect-raspberry-pi-to-can-bus-b60235
-
 •	Python-can: https://pypi.org/project/python-can/
+
+References:
+
+•	CAN-bus: https://www.hackster.io/youness/how-to-connect-raspberry-pi-to-can-bus-b60235
 
