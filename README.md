@@ -15,3 +15,11 @@ References:
 
 •	CAN-bus: https://www.hackster.io/youness/how-to-connect-raspberry-pi-to-can-bus-b60235
 
+Hardware:
+
+* Nucleo L476RG
+
+* Raspberry Pi 3B 
+
+* Neo-6m v2 GPS 
+
